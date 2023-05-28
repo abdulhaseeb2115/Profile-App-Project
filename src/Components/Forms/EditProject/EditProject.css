@@ -1,0 +1,17 @@
+.EditProject> ::-webkit-scrollbar {
+    width: 5px;
+}
+
+.EditProject> ::-webkit-scrollbar-button {
+    display: none !important;
+}
+
+.EditProject> ::-webkit-scrollbar-thumb {
+    background-color: white !important;
+    border: 1px solid black !important;
+    border-radius: 100px;
+}
+
+.EditProject> ::-webkit-scrollbar-track {
+    background-color: transparent !important;
+}

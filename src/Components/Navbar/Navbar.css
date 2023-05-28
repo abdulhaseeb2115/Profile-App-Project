@@ -1,0 +1,9 @@
+.dropdown-menu {
+    left: auto !important;
+    right: 0;
+}
+
+.navbar-toggler:focus {
+    box-shadow: none !important;
+    outline: none !important;
+}
